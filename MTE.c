@@ -36,7 +36,7 @@ int main()
 
     printf("\t           *****************************************       \n\n\n\n\n");
     printf("         \t _____Enter One(1) for logging vote main Logs______    \n\n\n");
-    printf("         \t   _____Project by 2k20/Mc/48 and 2k20/MC/52_____     \n\n");
+    printf("         \t   _____Project by 2k20/Mc/48 and 2k20/MC/63_____     \n\n");
     int input;
 
     scanf("%d",&input);
